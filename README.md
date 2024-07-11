@@ -106,7 +106,7 @@
                     Esse grande desnível pouco variou nos dez anos anteriores, tendência que também se verificou para homens negros e mulheres brancas.</i></td>
                     </br>
                     </hr>
-                    <h3><img src="./images/Desigualdade-salarial"/></h3>
+                    <h3><img src="./images/Desigualdade-salarial-.jpeg"/></h3>
                     <button>ler mais<a href="https://www.google.com/search?q=desigualdade+salarial+no+brasil&cvid=3629aba7581944a68f4209859053ca17&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkyOTkzNWowajSoAgiwAgE&FORM=ANAB01&ucpdpc=UCPD&PC=U531"> ir para Desigualdade-salarial></a>
                     </button>
                               </article>
