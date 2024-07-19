@@ -44,11 +44,16 @@
           width: 33%;
      }
      header{background-color: brown;}
-     article article a{
-          background-color: blue;
+     section,section a{
+          background-color: rgb(0, 255, 76);
           margin: inline
           block
           ;
+     }
+     
+     header{
+          padding: 28px;
+     
      }
      </style>
      </head>
@@ -65,10 +70,10 @@
                     <h3><a href="Desigualdade"></a></h3>
                     <h4><a href="Educação"></a></h4>
                </ul>
-               <div>
-          <div class="Containers"><section id="Esportes">
-               <div class="Esportes">
-                    </div>
+          <section>
+          <div>
+               <div class="Containers Esportes"><section id="Esporte">
+                    <div class="Esportes"></div>
                          <h1><p>Esportes:</p></h1>
                          <div class="article"></div>
                          <article><h1><i> Nba exige diploma universitário para jogar na liga.</i> </p>
@@ -79,7 +84,7 @@
                          </article>
                     </div>    
                </div>
-          </section></div>
+          </section>
           <div class="Containers"><section id="Econômia">
                <div class="Econômia">
                     <div class="article">
