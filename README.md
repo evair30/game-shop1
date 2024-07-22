@@ -77,7 +77,7 @@
                          <h1><p>Esportes:</p></h1>
                          <div class="article"></div>
                          <article><h1><i> Nba exige diploma universitário para jogar na liga.</i> </p>
-                         <h1><img src="images/basquete.jpg"></h1>
+                         <h1><img src="https://ibb.co/Yb5xtp4"></h1>
                          <button> ler mais<a href="https:www.google.com/search?gs_ssp=eJzj4tDP1TcwzSqrMGD0Ys5LSgQAIikESg&q=nba&rlz=1C1PNQB_enBR1112&oq=nb&gs_lcrp=&sourceid=chrome&ie=UTF-8>" ir para site da Nba/a>
                          </button>
                          </h1>
@@ -93,7 +93,7 @@
                               <article><h3><am>Dólar atingi R$5,60 ..</am></h3>
                               </br>
                               </hr>
-                              <h3><img src="./images/dolares.jpg" /></h3>
+                              <h3><img src="https://ibb.co/bKPRnYb" /></h3>
                               <button>ler mais<a href ="https://www.google.com/search?q=dolar+hoje&sca_esv=42f3e948118a1926&sca_upv=1&rlz=1C1PNQB_enBR1112BR1116&ei=JE6BZuG2Guu35OUPhNSmuAc&oq=dol&gs_lp=Egxnd3Mtd2l6LXNlcnAiA2RvbCoCCAAyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgsQABiABBixAxiDAUiBO1CvBli2IHACeAGQAQSYAb8BoAG9CaoBAzAuOLgBAcgBAPgBAZgCBqACqwWoAhTCAgoQABiwAxjWBBhHwgIHEAAYgAQYDcICBhAAGBYYHsICCBAAGBYYChgewgIIEAAYFhgeGA_CAggQABgFGA0YHsICChAAGAUYChgNGB7CAhMQABiABBhDGLQCGIoFGOoC2AEBwgIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQHCAhYQLhgDGLQCGOUCGOoCGIwDGI8B2AECwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAsICCxAuGIAEGLEDGIMBwgIFEAAYgATCAg4QABiABBixAxiDARiKBcICChAuGIAEGEMYigXCAhAQABiABBixAxhDGIMBGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEDmAMi4gMFEgExIECIBgGQBgi6BgQIARgHugYGCAIQARgKugYGCAMQARgUkgcDMi40oAfKRQ&sclient=gws-wiz-serp"> ir para site dolár></a>
                               </button>
                               </article>
@@ -111,7 +111,7 @@
                     Esse grande desnível pouco variou nos dez anos anteriores, tendência que também se verificou para homens negros e mulheres brancas.</i></td>
                     </br>
                     </hr>
-                    <h3><img src="./images/Desigualdade-salarial-.jpeg"/></h3>
+                    <h3><img src="https://ibb.co/Gp6xry0"/></h3>
                     <button>ler mais<a href="https://www.google.com/search?q=desigualdade+salarial+no+brasil&cvid=3629aba7581944a68f4209859053ca17&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkyOTkzNWowajSoAgiwAgE&FORM=ANAB01&ucpdpc=UCPD&PC=U531"> ir para Desigualdade-salarial></a>
                     </button>
                               </article>
@@ -127,7 +127,7 @@
                               <h4>Após quatro décadas, em 1980, houve aumento de 30,5 pontos percentuais na taxa de alfabetização,
                               passando para 74,5% e, finalmente, depois de mais quatro décadas, o país atingiu um percentual 93% em 2022,
                               representando um aumento de 18,5 pontos percentuais em relação a 1980</h4> 
-                              <h4><img src="./images/image.png"></h4>
+                              <h4><img src="https://ibb.co/sRc9nJF"></h4>
                               <button>ler mais<a href ="https://www.google.com/search?q=educa%C3%A7ao+brazil&rlz=1C1PNQB_enBR1112BR1116&oq=educa%C3%A7ao+brazil&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIKCAMQABgKGBYYHjIICAQQABgWGB4yCggFEAAYDxgWGB4yCggGEAAYBRgNGB4yCggHEAAYBRgNGB4yCggIEAAYBRgNGB4yCggJEAAYBRgNGB7SAQkxNTQ3NmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8"> ir para site Educação ></a>
                               </button>
                          </div>  
